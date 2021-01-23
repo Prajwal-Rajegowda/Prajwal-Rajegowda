@@ -14,6 +14,5 @@
 #### The Science behind computers makes my day. 
 #### Check out https://techsideofmeprajwal.blogspot.com/ for some thoughts and learnings I would like to share.
 
-#### Twitter handle : @PrajwalRajegow2
 #### LinkedIn : https://www.linkedin.com/in/prajwal-rajegowda-75735b191
 #### Email : prajwal19cs071@bnmit.in
