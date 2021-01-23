@@ -2,7 +2,7 @@
 ### I'm Prajwal Rajegowda.
 
 #### A few things about me :
-- I'm a Student at BNM Institute of Techonlogy, Bengaluru.
+- I'm a Student at BNM Institute of Technology, Bengaluru.
 - I'm a Tech Enthusiast.
 - I have the zeal to code. I know I'm a newbie, but learning happens through experience right?
 
