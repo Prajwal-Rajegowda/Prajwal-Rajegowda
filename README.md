@@ -10,6 +10,7 @@
 - C
 - C++
 - Python
+- Java
 
 #### The Science behind computers makes my day. 
 #### Check out https://techsideofmeprajwal.blogspot.com/ for some thoughts and learnings I would like to share.
