@@ -16,4 +16,4 @@
 #### Check out https://techsideofmeprajwal.blogspot.com/ for some thoughts and learnings I would like to share.
 
 #### LinkedIn : https://www.linkedin.com/in/prajwal-rajegowda-75735b191
-#### Email : prajwal19cs071@bnmit.in
+#### Email : prajwal20010106@gmail.com
