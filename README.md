@@ -13,7 +13,6 @@
 - Java
 
 #### The Science behind computers makes my day. 
-#### Check out https://muddledamigo.blogspot.com/ for some thoughts and learnings I would like to share.
 
 #### LinkedIn : https://www.linkedin.com/in/prajwal-rajegowda-75735b191
 #### Email : prajwal20010106@gmail.com
