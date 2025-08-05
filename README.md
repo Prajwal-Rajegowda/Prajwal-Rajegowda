@@ -2,7 +2,7 @@
 ### I'm Prajwal Rajegowda.
 
 #### A few things about me :
-- I'm a Developer @ 42Gears.
+- I'm a Developer.
 - I'm a Tech Enthusiast.
 - I can write code 🙃🙃
 
